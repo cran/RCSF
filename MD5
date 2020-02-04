@@ -1,11 +1,12 @@
-98465378d9fb6e986b0f96b9e6bbf079 *DESCRIPTION
+d5b4ec4ebf6a608a9a6fea19790f8400 *DESCRIPTION
 ec26a327de450befa55e2500a9228619 *NAMESPACE
+6949edbc454a20e6e8a2510eb68befb3 *NEWS.md
 97dda87c45b522536f0ec1f54b45820e *R/CSF.R
 24c51895323793584d6483cbefc2beed *R/RcppExports.R
 79a30fdebaa7002a295a655f2e07a36f *R/data.r
-98f15e7216857dbed871b3209c576704 *README.md
+ffce718c08792be2f9c378b137140dd2 *README.md
 de6d54a5f940480c3a9beca54e285cdd *data/rcsf_cloud.rda
-5a06be180e0ae8210cb2bcfb66fb9d46 *man/CSF.Rd
+4da6ce488eab5c4f56cb4a1d5e3ac15b *man/CSF.Rd
 b65d97adc994b9a4ca7f2d1d2d45a1ad *man/rcsf_cloud.Rd
 993340207e4e806fdba7004cec081088 *src/CSF.cpp
 3409811c644dea04ec5450649d1b984c *src/CSF.h
@@ -30,4 +31,4 @@ d702e198f7072b29949abf9e69e89d56 *src/c2cdist.cpp
 73d5bb863a9ac62f0e827b9e80ba04da *src/point_cloud.cpp
 3dabef681ab65e7f630ac9685e902d5a *src/point_cloud.h
 2adbeb469c7d58a551c592115e2800a1 *tests/testthat.R
-95c8b38ab8584955e5f1efef154550e0 *tests/testthat/test-CSF.R
+a815ec1ab0b8c5ea93995e7c407996b8 *tests/testthat/test-CSF.R
